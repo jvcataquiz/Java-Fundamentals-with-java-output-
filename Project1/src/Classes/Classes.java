@@ -14,6 +14,5 @@ public class Classes {
     person2.sex = 'F';
     person2.age = 10;
 
-
     }
 }
